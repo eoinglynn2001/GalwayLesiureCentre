@@ -1,0 +1,35 @@
+.navbar {
+	margin-bottom: 50px;
+}
+.bg-blue {
+	background: #2973bd;
+} 
+.clr-white {
+	color: white !important;
+}
+.navbar-nav a {
+	color: white;
+}
+.navbar-nav:hover a {
+	color: white;
+}
+.navbar-brand {
+	font-size: 23px;
+	font-weight: bold;
+}
+.nav-link {
+	font-size: 20px;
+}
+.bold-txt {
+	font-size: 20px;
+}
+.center {
+	margin: 0 auto;
+	display: block;
+}
+.map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
